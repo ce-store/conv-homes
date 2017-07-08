@@ -1,0 +1,24 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is a dwelling named 'Dan\'s Flat'.
+
+there is a room named 'Building Hallway' that
+  is located in the dwelling 'Dan\'s Flat'.
+
+there is a room named 'Front Room' that
+  is located in the dwelling 'Dan\'s Flat'.
+
+there is a room named 'Hallway' that
+  is located in the dwelling 'Dan\'s Flat'.
+
+there is a room named 'Bathroom' that
+  is located in the dwelling 'Dan\'s Flat'.
+
+there is a room named 'Bedroom' that
+  is located in the dwelling 'Dan\'s Flat'.
+
+there is a room named 'Cupboard' that
+  is located in the dwelling 'Dan\'s Flat'.

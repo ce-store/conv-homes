@@ -1,0 +1,9 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+Note: The rules defined in this file are all from the "Conversational Homes" paper found at http://sl.dais-ita.org/science-library/paper/doc-915
+
+if (the action A is reversed by the action B)
+  then (the action B is reversed by the action A).

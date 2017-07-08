@@ -1,0 +1,7 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the binary state 'On' is the reverse of the binary state 'Off'.
+the binary state 'Open' is the reverse of the binary state 'Closed'.

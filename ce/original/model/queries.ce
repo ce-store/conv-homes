@@ -1,0 +1,11 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+Note: The queries defined in this file are all from the "Conversational Homes" paper found at http://sl.dais-ita.org/science-library/paper/doc-915
+
+for which D is it true that
+  (the device D is located in the room V) and
+  (the device D can measure the environment variable 'temperature') and
+  (the value V = 'kitchen').

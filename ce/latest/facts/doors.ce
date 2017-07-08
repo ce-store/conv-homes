@@ -1,0 +1,24 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is a door named 'Front Door' that
+  is located in the room 'Hallway' and
+  is located in the room 'Building Hallway'.
+
+there is a door named 'Front-to-Hallway Door' that
+  is located in the room 'Front Room' and
+  is located in the room 'Hallway'.
+
+there is a door named 'Bathroom-to-Hallway Door' that
+  is located in the room 'Bathroom' and
+  is located in the room 'Hallway'.
+
+there is a door named 'Bedroom-to-Hallway Door' that
+  is located in the room 'Bedroom' and
+  is located in the room 'Hallway'.
+
+there is a door named 'Cupboard-to-Bedroom Door' that
+  is located in the room 'Cupboard' and
+  is located in the room 'Bedroom'.

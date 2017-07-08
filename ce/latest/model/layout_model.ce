@@ -1,0 +1,21 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+conceptualise a ~ dwelling ~ D.
+
+conceptualise a ~ room ~ R1 that
+  ~ is located in ~ the dwelling D and
+  ~ adjoins ~ the room R2.
+
+conceptualise a ~ door ~ D that
+  is a located thing and
+  is a binary state thing.
+
+conceptualise a ~ window ~ W that
+  is a located thing and
+  is a binary state thing.
+
+conceptualise a ~ located thing ~ L that
+  ~ is located in ~ the room R.

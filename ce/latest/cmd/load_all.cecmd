@@ -1,0 +1,24 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+perform reset store.
+
+perform set 'autorun rules' to 'true'.
+
+perform load sentences from url '/conv-homes/conv-homes/ce/latest/model/device_model.ce'.
+perform load sentences from url '/conv-homes/conv-homes/ce/latest/model/layout_model.ce'.
+perform load sentences from url '/conv-homes/conv-homes/ce/latest/model/meta_model.ce'.
+perform load sentences from url '/conv-homes/conv-homes/ce/latest/model/queries.ce'.
+perform load sentences from url '/conv-homes/conv-homes/ce/latest/model/rules.ce'.
+
+perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/binary_states.ce'.
+perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/cameras.ce'.
+perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/doors.ce'.
+perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/environment_variables.ce'.
+perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/lights.ce'.
+perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/meta_facts.ce'.
+perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/rooms.ce'.
+perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/sensors.ce'.
+perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/windows.ce'.

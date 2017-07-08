@@ -1,0 +1,25 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is a binary light named 'Front overheads' that
+  is located in the room 'Front Room'.
+
+there is a binary light named 'Back overheads' that
+  is located in the room 'Front Room'.
+
+there is a binary light named 'Side lamp' that
+  is located in the room 'Front Room'.
+
+there is a binary light named 'Hallway overheads' that
+  is located in the room 'Hallway'.
+
+there is a binary light named 'Bathroom overheads' that
+  is located in the room 'Bathroom'.
+
+there is a binary light named 'Bedroom overheads' that
+  is located in the room 'Bedroom'.
+
+there is a binary light named 'Bedroom lamp' that
+  is located in the room 'Bedroom'.

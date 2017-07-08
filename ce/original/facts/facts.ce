@@ -1,0 +1,31 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+Note: The instances defined in this file are all from the "Conversational Homes" paper found at http://sl.dais-ita.org/science-library/paper/doc-915
+
+there is an environment variable named 'temperature'.
+
+there is a controlling thing named 'thermostat' that
+  can control the environment variable 'temperature'.
+
+there is an action named 'turn on'.
+there is an action named 'turn off'.
+
+the action 'turn on' is reversed by the action 'turn off'.
+
+there is a trigger named ' tr1' that
+  has 'turn up' as action and
+  has 'boiler' as target device and
+  has 'turn on' as target action.
+
+the thermostat 'ts1' will respond to the trigger 'tr1'.
+
+there is a physical state named 'cold' that
+  is an expression of the environment variable 'temperature' and
+  has 'warmer' as desired state.
+
+there is a desired state named 'warmer' that
+  has 'temperature' as target and
+  has 'increase' as effect.

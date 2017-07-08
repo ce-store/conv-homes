@@ -1,0 +1,19 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+conceptualise an ~ environment variable ~ E.
+
+conceptualise a ~ device concept ~ D that
+  ~ can measure ~ the environment variable E1 and
+  ~ can control ~ the environment variable E2.
+
+conceptualise a ~ binary state concept ~ B that
+  has the binary state BS as ~ possible state ~.
+
+conceptualise a ~ binary state thing ~ B that
+  has the binary state BS as ~ state ~.
+
+conceptualise a ~ binary state ~ BS1 that
+  ~ is the reverse of ~ the binary state BS2.

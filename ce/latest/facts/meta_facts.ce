@@ -1,0 +1,22 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the binary state concept 'binary light'
+  has the binary state 'On' as possible state and
+  has the binary state 'Off' as possible state.
+
+the binary state concept 'door sensor'
+  has the binary state 'Open' as possible state and
+  has the binary state 'Closed' as possible state.
+
+the binary state concept 'window sensor'
+  has the binary state 'Open' as possible state and
+  has the binary state 'Closed' as possible state.
+
+the device concept 'temperature sensor'
+  can measure the environment variable 'temperature'.
+
+the device concept 'light'
+  can control the environment variable 'light'.

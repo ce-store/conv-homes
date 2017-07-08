@@ -1,0 +1,20 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+[ binary state reverse of ]
+if
+  ( the binary state BS1 is the reverse of the binary state BS2 )
+then
+  ( the binary state BS2 is the reverse of the binary state BS1 )
+.
+
+[ room adjoins ]
+if
+  ( the door D is located in the room R1 ) and
+  ( the door D is located in the room R2 ) and
+  ( the room R1 != the room R2 )
+then
+  ( the room R1 adjoins the room R2 )
+.

@@ -1,0 +1,47 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+Note: The concepts defined in this file are all from the "Conversational Homes" paper found at http://sl.dais-ita.org/science-library/paper/doc-915
+
+conceptualise a ~ device ~ D.
+
+conceptualise an ~ environment variable ~ E.
+
+conceptualise a ~ controlling thing ~ C that is a device.
+
+conceptualise a ~ controlling thing ~ C that
+  ~ can control ~ the environment variable E.
+
+conceptualise a ~ device ~ D that
+  has the value E as ~ enabled ~.
+
+conceptualise an ~ action ~ A that
+  ~ is reversed by ~ the action B and
+  ~ can affect ~ the controlling thing M.
+
+--Added manually (not explictly written in paper PDF)
+conceptualise a ~ trigger ~ T that
+  has the value A as ~ action ~ and
+  has the value TD as ~ target device ~ and
+  has the value TA as ~ target action ~.
+
+conceptualise a ~ thermostat ~ T that is a device.
+
+conceptualise a ~ device ~ D that
+  ~ will respond to ~ the trigger T.
+
+conceptualise a ~ physical state ~ PS that
+  ~ is an expression of ~ the environment variable EV and
+  has the value DS as ~ desired state ~.
+
+conceptualise a ~ desired state ~ DS that
+  has the value T as ~ target ~ and
+  has the value E as ~ effect ~.
+
+conceptualise a ~ room ~ R.
+
+conceptualise a ~ device ~ D that
+   ~ is located in ~ the room R and
+   ~ can measure ~ the environment variable EV.

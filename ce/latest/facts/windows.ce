@@ -1,0 +1,19 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is a window named 'Front Left Window' that
+  is located in the room 'Front Room'.
+
+there is a window named 'Front Middle Window' that
+  is located in the room 'Front Room'.
+
+there is a window named 'Front Right Window' that
+  is located in the room 'Front Room'.
+
+there is a window named 'Bathroom Window' that
+  is located in the room 'Bathroom'.
+
+there is a window named 'Bedroom Window' that
+  is located in the room 'Bedroom'.

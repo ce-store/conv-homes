@@ -1,0 +1,37 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- Door sensors
+there is a door sensor named 'Front Door Sensor' that
+  is attached to the door 'Front Door' and
+  has '192.168.1.X' as IP address and
+  has 'XXXX' as port.
+
+there is a door sensor named 'Front-to-Hallway Door Sensor' that
+  is attached to the door 'Front-to-Hallway Door' and
+  has '192.168.1.X' as IP address and
+  has 'XXXX' as port.
+
+there is a door sensor named 'Bathroom-to-Hallway Door Sensor' that
+  is attached to the door 'Bathroom-to-Hallway Door' and
+  has '192.168.1.X' as IP address and
+  has 'XXXX' as port.
+
+there is a door sensor named 'Bedroom-to-Hallway Door Sensor' that
+  is attached to the door 'Bedroom-to-Hallway Door' and
+  has '192.168.1.X' as IP address and
+  has 'XXXX' as port.
+
+
+-- Temperature sensors
+there is a temperature sensor named 'Front Room Temp Sensor' that
+  is located in the room 'Front Room' and
+  has '192.168.1.X' as IP address and
+  has 'XXXX' as port.
+
+there is a temperature sensor named 'Bedroom Temp Sensor' that
+  is located in the room 'Bedroom' and
+  has '192.168.1.X' as IP address and
+  has 'XXXX' as port.

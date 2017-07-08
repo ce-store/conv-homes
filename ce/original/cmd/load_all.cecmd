@@ -1,0 +1,12 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+perform reset store.
+
+perform load sentences from url '/conv-homes/conv-homes/ce/original/model/model.ce'.
+perform load sentences from url '/conv-homes/conv-homes/ce/original/model/queries.ce'.
+perform load sentences from url '/conv-homes/conv-homes/ce/original/model/rules.ce'.
+
+perform load sentences from url '/conv-homes/conv-homes/ce/original/facts/facts.ce'.
