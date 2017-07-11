@@ -17,6 +17,7 @@ perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/binary_s
 perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/cameras.ce'.
 perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/doors.ce'.
 perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/environment_variables.ce'.
+perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/images.ce'.
 perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/lights.ce'.
 perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/meta_facts.ce'.
 perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/rooms.ce'.

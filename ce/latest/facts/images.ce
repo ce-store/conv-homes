@@ -1,0 +1,59 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+
+--Binary light
+the renderable concept 'binary light'
+  has 'https://rawgit.com/ce-store/conv-homes/master/icons/binary-light.PNG' as default image url and
+  has the contextual image 'binary light:on' as contextual image and
+  has the contextual image 'binary light:off' as contextual image.
+
+there is a contextual image named 'binary light:on' that
+  has 'https://rawgit.com/ce-store/conv-homes/master/icons/binary-light-ON.PNG' as image url and
+  has the binary state 'On' as state.
+
+there is a contextual image named 'binary light:off' that
+  has 'https://rawgit.com/ce-store/conv-homes/master/icons/binary-light-OFF.PNG' as image url and
+  has the binary state 'Off' as state.
+
+
+--RGB light
+the renderable concept 'RGB light'
+  has 'https://rawgit.com/ce-store/conv-homes/master/icons/RGB-light.PNG' as default image url.
+
+
+--Camera
+the renderable concept 'camera'
+  has 'https://rawgit.com/ce-store/conv-homes/master/icons/camera.PNG' as default image url.
+
+
+--Door sensor
+the renderable concept 'door sensor'
+  has 'https://rawgit.com/ce-store/conv-homes/master/icons/door-sensor.PNG' as default image url and
+  has the contextual image 'door sensor:open' as contextual image and
+  has the contextual image 'door sensor:closed' as contextual image.
+
+there is a contextual image named 'door sensor:open' that
+  has 'https://rawgit.com/ce-store/conv-homes/master/icons/door-sensor-OPEN.PNG' as image url and
+  has the binary state 'Open' as state.
+
+there is a contextual image named 'door sensor:closed' that
+  has 'https://rawgit.com/ce-store/conv-homes/master/icons/door-sensor-CLOSED.PNG' as image url and
+  has the binary state 'Closed' as state.
+
+
+--Window sensor
+the renderable concept 'window sensor'
+  has 'https://rawgit.com/ce-store/conv-homes/master/icons/window-sensor.PNG' as default image url and
+  has the contextual image 'window sensor:open' as contextual image and
+  has the contextual image 'window sensor:closed' as contextual image.
+
+there is a contextual image named 'window sensor:open' that
+  has 'https://rawgit.com/ce-store/conv-homes/master/icons/window-sensor-OPEN.PNG' as image url and
+  has the binary state 'Open' as state.
+
+there is a contextual image named 'window sensor:closed' that
+  has 'https://rawgit.com/ce-store/conv-homes/master/icons/window-sensor-CLOSED.PNG' as image url and
+  has the binary state 'Closed' as state.

@@ -17,6 +17,7 @@ perform load sentences from url './ce/latest/facts/binary_states.ce'.
 perform load sentences from url './ce/latest/facts/cameras.ce'.
 perform load sentences from url './ce/latest/facts/doors.ce'.
 perform load sentences from url './ce/latest/facts/environment_variables.ce'.
+perform load sentences from url './ce/latest/facts/images.ce'.
 perform load sentences from url './ce/latest/facts/lights.ce'.
 perform load sentences from url './ce/latest/facts/meta_facts.ce'.
 perform load sentences from url './ce/latest/facts/rooms.ce'.
