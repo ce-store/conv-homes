@@ -21,4 +21,5 @@ perform load sentences from url './ce/latest/facts/lights.ce'.
 perform load sentences from url './ce/latest/facts/meta_facts.ce'.
 perform load sentences from url './ce/latest/facts/rooms.ce'.
 perform load sentences from url './ce/latest/facts/sensors.ce'.
+perform load sentences from url './ce/latest/facts/spatial.ce'.
 perform load sentences from url './ce/latest/facts/windows.ce'.

@@ -3,6 +3,12 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
+conceptualise a ~ spatial thing ~ T that
+  has the value x as ~ x position ~ and
+  has the value y as ~ y position ~ and
+  has the value z as ~ z position ~ and
+  has the value o as ~ orientation ~.
+
 conceptualise a ~ dwelling ~ D.
 
 conceptualise a ~ room ~ R1 that
@@ -10,10 +16,12 @@ conceptualise a ~ room ~ R1 that
   ~ adjoins ~ the room R2.
 
 conceptualise a ~ door ~ D that
+  is a spatial thing and
   is a located thing and
   is a binary state thing.
 
 conceptualise a ~ window ~ W that
+  is a spatial thing and
   is a located thing and
   is a binary state thing.
 

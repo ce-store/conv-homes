@@ -1,0 +1,153 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+
+--Cameras
+
+the camera 'Front Room Door Camera'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the camera 'Front Room Window Camera'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the camera 'Bedroom Door Camera'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the camera 'Bedroom Window Camera'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+
+--Doors
+the door 'Front Door'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the door 'Front-to-Hallway Door'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the door 'Bathroom-to-Hallway Door'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the door 'Bedroom-to-Hallway Door'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the door 'Cupboard-to-Bedroom Door'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+
+--Lights
+
+the binary light 'Front overheads'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the binary light 'Back overheads'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the binary light 'Side lamp'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the binary light 'Hallway overheads'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the binary light 'Bathroom overheads'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the binary light 'Bedroom overheads'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the binary light 'Bedroom lamp'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+
+-- Door sensors
+the door sensor 'Front Door Sensor'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the door sensor 'Front-to-Hallway Door Sensor'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the door sensor 'Bathroom-to-Hallway Door Sensor'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the door sensor 'Bedroom-to-Hallway Door Sensor'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+
+-- Temperature sensors
+the temperature sensor 'Front Room Temp Sensor'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the temperature sensor 'Bedroom Temp Sensor'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+
+--Windows
+the window 'Front Left Window'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the window 'Front Middle Window'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the window 'Front Right Window'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the window 'Bathroom Window'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
+
+the window 'Bedroom Window'
+  has '100' as x position and
+  has '100' as y position and
+  has '0' as orientation.
