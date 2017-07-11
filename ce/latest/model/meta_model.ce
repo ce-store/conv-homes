@@ -15,8 +15,17 @@ conceptualise a ~ binary state concept ~ B that
 conceptualise a ~ binary state thing ~ B that
   has the binary state BS as ~ state ~.
 
+conceptualise a ~ state ~ S.
+
 conceptualise a ~ binary state ~ BS1 that
+  is a state and
   ~ is the reverse of ~ the binary state BS2.
+
+conceptualise a ~ state change ~ SC that
+  ~ applies to ~ the device D and
+  has the state S1 as ~ previous state ~ and
+  has the state S2 as ~ current state ~ and
+  has the value T as ~ timestamp ~.
 
 conceptualise a ~ contextual image ~ C that
   has the binary state B as ~ state ~ and

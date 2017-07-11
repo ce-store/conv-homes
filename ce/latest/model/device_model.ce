@@ -5,6 +5,7 @@
 
 conceptualise a ~ device ~ D that
   is a spatial thing and
+  has the state change S as ~ state change ~ and
   has the value I as ~ IP address ~ and
   has the value P as ~ port ~.
 
