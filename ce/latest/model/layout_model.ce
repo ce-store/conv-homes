@@ -9,6 +9,9 @@ conceptualise a ~ spatial thing ~ T that
   has the value z as ~ z position ~ and
   has the value o as ~ orientation ~.
 
+conceptualise an ~ opening thing ~ O that
+  has the value D as ~ direction ~.
+
 conceptualise a ~ dwelling ~ D.
 
 conceptualise a ~ room ~ R1 that
@@ -19,12 +22,16 @@ conceptualise a ~ room ~ R1 that
 conceptualise a ~ door ~ D that
   is a spatial thing and
   is a located thing and
-  is a binary state thing.
+  is an opening thing and
+  is a binary state thing and
+  has the value D as ~ dimensions ~.
 
 conceptualise a ~ window ~ W that
   is a spatial thing and
   is a located thing and
-  is a binary state thing.
+  is an opening thing and
+  is a binary state thing and
+  has the value D as ~ dimensions ~.
 
 conceptualise a ~ located thing ~ L that
   ~ is located in ~ the room R.

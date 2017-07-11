@@ -1,0 +1,67 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+--Rooms
+the room 'Building Hallway'
+  has '[ [0,1], [1,2] ]' as dimensions.
+
+the room 'Front Room'
+  has '[ [0,1], [1,2] ]' as dimensions.
+
+the room 'Hallway'
+  has '[ [0,1], [1,2] ]' as dimensions.
+
+the room 'Bathroom'
+  has '[ [0,1], [1,2] ]' as dimensions.
+
+the room 'Bedroom'
+  has '[ [0,1], [1,2] ]' as dimensions.
+
+the room 'Cupboard'
+  has '[ [0,1], [1,2] ]' as dimensions.
+
+
+--Doors
+the door 'Front Door'
+  has '[ [0,1], [1,2] ]' as dimensions and
+  has 'inward' as direction.
+
+the door 'Front-to-Hallway Door'
+  has '[ [0,1], [1,2] ]' as dimensions and
+  has 'inward' as direction.
+
+the door 'Bathroom-to-Hallway Door'
+  has '[ [0,1], [1,2] ]' as dimensions and
+  has 'inward' as direction.
+
+the door 'Bedroom-to-Hallway Door'
+  has '[ [0,1], [1,2] ]' as dimensions and
+  has 'inward' as direction.
+
+the door 'Cupboard-to-Bedroom Door'
+  has '[ [0,1], [1,2] ]' as dimensions and
+  has 'inward' as direction.
+
+
+--Windows
+the window 'Front Left Window'
+  has '[ [0,1], [1,2] ]' as dimensions and
+  has 'outward' as direction.
+
+the window 'Front Middle Window'
+  has '[ [0,1], [1,2] ]' as dimensions and
+  has 'outward' as direction.
+
+the window 'Front Right Window'
+  has '[ [0,1], [1,2] ]' as dimensions and
+  has 'outward' as direction.
+
+the window 'Bathroom Window'
+  has '[ [0,1], [1,2] ]' as dimensions and
+  has 'outward' as direction.
+
+the window 'Bedroom Window'
+  has '[ [0,1], [1,2] ]' as dimensions and
+  has 'outward' as direction.

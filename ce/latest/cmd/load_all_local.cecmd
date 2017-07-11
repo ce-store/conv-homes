@@ -15,12 +15,12 @@ perform load sentences from url '/conv-homes/conv-homes/ce/latest/model/rules.ce
 
 perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/binary_states.ce'.
 perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/cameras.ce'.
+perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/dimensions.ce'.
 perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/doors.ce'.
 perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/environment_variables.ce'.
 perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/images.ce'.
 perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/lights.ce'.
 perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/meta_facts.ce'.
-perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/room_dimensions.ce'.
 perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/rooms.ce'.
 perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/sensors.ce'.
 perform load sentences from url '/conv-homes/conv-homes/ce/latest/facts/spatial.ce'.
