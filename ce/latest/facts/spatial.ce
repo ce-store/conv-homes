@@ -4,8 +4,7 @@
 -- --------------------------------------------------------------------------
 
 
---Cameras
-
+-- Cameras
 the camera 'Front Room Door Camera'
   has '100' as x position and
   has '100' as y position and
@@ -27,35 +26,19 @@ the camera 'Bedroom Window Camera'
   has '0' as orientation.
 
 
---Doors
-the door 'Front Door'
+-- Temperature sensors
+the temperature sensor 'Front Room Temp Sensor'
   has '100' as x position and
   has '100' as y position and
   has '0' as orientation.
 
-the door 'Front-to-Hallway Door'
-  has '100' as x position and
-  has '100' as y position and
-  has '0' as orientation.
-
-the door 'Bathroom-to-Hallway Door'
-  has '100' as x position and
-  has '100' as y position and
-  has '0' as orientation.
-
-the door 'Bedroom-to-Hallway Door'
-  has '100' as x position and
-  has '100' as y position and
-  has '0' as orientation.
-
-the door 'Cupboard-to-Bedroom Door'
+the temperature sensor 'Bedroom Temp Sensor'
   has '100' as x position and
   has '100' as y position and
   has '0' as orientation.
 
 
---Lights
-
+-- Lights
 the binary light 'Front overheads'
   has '100' as x position and
   has '100' as y position and
@@ -114,40 +97,28 @@ the door sensor 'Bedroom-to-Hallway Door Sensor'
   has '0' as orientation.
 
 
--- Temperature sensors
-the temperature sensor 'Front Room Temp Sensor'
+-- Window sensors
+the window sensor 'Front Left Window Sensor'
   has '100' as x position and
   has '100' as y position and
   has '0' as orientation.
 
-the temperature sensor 'Bedroom Temp Sensor'
+the window sensor 'Front Middle Window Sensor'
   has '100' as x position and
   has '100' as y position and
   has '0' as orientation.
 
-
---Windows
-the window 'Front Left Window'
+the window sensor 'Front Right Window Sensor'
   has '100' as x position and
   has '100' as y position and
   has '0' as orientation.
 
-the window 'Front Middle Window'
+the window sensor 'Bathroom Window Sensor'
   has '100' as x position and
   has '100' as y position and
   has '0' as orientation.
 
-the window 'Front Right Window'
-  has '100' as x position and
-  has '100' as y position and
-  has '0' as orientation.
-
-the window 'Bathroom Window'
-  has '100' as x position and
-  has '100' as y position and
-  has '0' as orientation.
-
-the window 'Bedroom Window'
+the window sensor 'Bedroom Window Sensor'
   has '100' as x position and
   has '100' as y position and
   has '0' as orientation.

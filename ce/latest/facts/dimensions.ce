@@ -3,7 +3,7 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
---Rooms
+-- Rooms
 the room 'Building Hallway'
   has '[ [0,1], [1,2] ]' as dimensions.
 
@@ -23,7 +23,7 @@ the room 'Cupboard'
   has '[ [0,1], [1,2] ]' as dimensions.
 
 
---Doors
+-- Doors
 the door 'Front Door'
   has '[ [0,1], [1,2] ]' as dimensions and
   has 'inward' as direction.
@@ -45,7 +45,7 @@ the door 'Cupboard-to-Bedroom Door'
   has 'inward' as direction.
 
 
---Windows
+-- Windows
 the window 'Front Left Window'
   has '[ [0,1], [1,2] ]' as dimensions and
   has 'outward' as direction.

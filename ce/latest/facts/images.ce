@@ -4,7 +4,7 @@
 -- --------------------------------------------------------------------------
 
 
---Binary light
+-- Binary light
 the renderable concept 'binary light'
   has 'https://rawgit.com/ce-store/conv-homes/master/icons/binary-light.PNG' as default image url and
   has the contextual image 'binary light:on' as contextual image and
@@ -19,21 +19,22 @@ there is a contextual image named 'binary light:off' that
   has the binary state 'Off' as state.
 
 
---RGB light
+-- RGB light
 the renderable concept 'RGB light'
   has 'https://rawgit.com/ce-store/conv-homes/master/icons/RGB-light.PNG' as default image url.
 
 
---Camera
+-- Camera
 the renderable concept 'camera'
   has 'https://rawgit.com/ce-store/conv-homes/master/icons/camera.PNG' as default image url.
 
 
---Camera
+-- Temperature sensor
 the renderable concept 'temperature sensor'
   has 'https://rawgit.com/ce-store/conv-homes/master/icons/temperature-sensor.PNG' as default image url.
 
---Door sensor
+
+-- Door sensor
 the renderable concept 'door sensor'
   has 'https://rawgit.com/ce-store/conv-homes/master/icons/door-sensor.PNG' as default image url and
   has the contextual image 'door sensor:open' as contextual image and
@@ -48,7 +49,7 @@ there is a contextual image named 'door sensor:closed' that
   has the binary state 'Closed' as state.
 
 
---Window sensor
+-- Window sensor
 the renderable concept 'window sensor'
   has 'https://rawgit.com/ce-store/conv-homes/master/icons/window-sensor.PNG' as default image url and
   has the contextual image 'window sensor:open' as contextual image and
