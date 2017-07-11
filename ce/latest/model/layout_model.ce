@@ -13,7 +13,8 @@ conceptualise a ~ dwelling ~ D.
 
 conceptualise a ~ room ~ R1 that
   ~ is located in ~ the dwelling D and
-  ~ adjoins ~ the room R2.
+  ~ adjoins ~ the room R2 and
+  has the value D as ~ dimensions ~.
 
 conceptualise a ~ door ~ D that
   is a spatial thing and

@@ -1,0 +1,22 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the room 'Building Hallway'
+  has '[ [0,1], [1,2] ]' as dimensions.
+
+the room 'Front Room'
+  has '[ [0,1], [1,2] ]' as dimensions.
+
+the room 'Hallway'
+  has '[ [0,1], [1,2] ]' as dimensions.
+
+the room 'Bathroom'
+  has '[ [0,1], [1,2] ]' as dimensions.
+
+the room 'Bedroom'
+  has '[ [0,1], [1,2] ]' as dimensions.
+
+the room 'Cupboard'
+  has '[ [0,1], [1,2] ]' as dimensions.
