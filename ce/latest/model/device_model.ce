@@ -13,6 +13,10 @@ conceptualise a ~ door sensor ~ DS that
   is a device and
   ~ is attached to ~ the door D.
 
+conceptualise a ~ window sensor ~ WS that
+  is a device and
+  ~ is attached to ~ the window W.
+
 conceptualise a ~ temperature sensor ~ TS that
   is a device and
   is a located thing.

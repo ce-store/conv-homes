@@ -32,3 +32,9 @@ the state change 'sc_004'
   has the binary state 'Open' as previous state and
   has the binary state 'Closed' as current state and
   has '{now}' as timestamp.
+
+the state change 'sc_005'
+  applies to the door sensor 'Front Left Window Sensor' and
+  has the binary state 'Open' as previous state and
+  has the binary state 'Closed' as current state and
+  has '{now}' as timestamp.

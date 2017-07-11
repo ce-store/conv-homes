@@ -25,6 +25,33 @@ there is a door sensor named 'Bedroom-to-Hallway Door Sensor' that
   has 'XXXX' as port.
 
 
+-- Window sensors
+there is a window sensor named 'Front Left Window Sensor' that
+  is attached to the window 'Front Left Window' and
+  has '192.168.1.X' as IP address and
+  has 'XXXX' as port.
+
+there is a window sensor named 'Front Middle Window Sensor' that
+  is attached to the window 'Front Middle Window' and
+  has '192.168.1.X' as IP address and
+  has 'XXXX' as port.
+
+there is a window sensor named 'Front Right Window Sensor' that
+  is attached to the window 'Front Right Window' and
+  has '192.168.1.X' as IP address and
+  has 'XXXX' as port.
+
+there is a window sensor named 'Bathroom Window Sensor' that
+  is attached to the window 'Bathroom Window' and
+  has '192.168.1.X' as IP address and
+  has 'XXXX' as port.
+
+there is a window sensor named 'Bedroom Window Sensor' that
+  is attached to the window 'Bedroom Window' and
+  has '192.168.1.X' as IP address and
+  has 'XXXX' as port.
+
+
 -- Temperature sensors
 there is a temperature sensor named 'Front Room Temp Sensor' that
   is located in the room 'Front Room' and
