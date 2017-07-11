@@ -29,6 +29,10 @@ the renderable concept 'camera'
   has 'https://rawgit.com/ce-store/conv-homes/master/icons/camera.PNG' as default image url.
 
 
+--Camera
+the renderable concept 'temperature sensor'
+  has 'https://rawgit.com/ce-store/conv-homes/master/icons/temperature-sensor.PNG' as default image url.
+
 --Door sensor
 the renderable concept 'door sensor'
   has 'https://rawgit.com/ce-store/conv-homes/master/icons/door-sensor.PNG' as default image url and
