@@ -6,72 +6,72 @@
 
 -- Cameras
 the camera 'Front Room Door Camera'
-  has '100' as x position and
-  has '100' as y position and
+  has '32.5' as x position and
+  has '37.5' as y position and
   has '0' as orientation.
 
 the camera 'Front Room Window Camera'
-  has '100' as x position and
-  has '100' as y position and
-  has '0' as orientation.
+  has '25' as x position and
+  has '42.5' as y position and
+  has '180' as orientation.
 
 the camera 'Bedroom Door Camera'
-  has '100' as x position and
-  has '100' as y position and
-  has '0' as orientation.
+  has '47.5' as x position and
+  has '25' as y position and
+  has '270' as orientation.
 
 the camera 'Bedroom Window Camera'
-  has '100' as x position and
-  has '100' as y position and
-  has '0' as orientation.
+  has '72.5' as x position and
+  has '25' as y position and
+  has '90' as orientation.
 
 
 -- Temperature sensors
 the temperature sensor 'Front Room Temp Sensor'
-  has '100' as x position and
-  has '100' as y position and
+  has '42' as x position and
+  has '2' as y position and
   has '0' as orientation.
 
 the temperature sensor 'Bedroom Temp Sensor'
-  has '100' as x position and
-  has '100' as y position and
+  has '22' as x position and
+  has '18' as y position and
   has '0' as orientation.
 
 
 -- Lights
 the binary light 'Front overheads'
-  has '100' as x position and
-  has '100' as y position and
+  has '25' as x position and
+  has '45' as y position and
   has '0' as orientation.
 
 the binary light 'Back overheads'
-  has '100' as x position and
-  has '100' as y position and
+  has '25' as x position and
+  has '35' as y position and
   has '0' as orientation.
 
 the binary light 'Side lamp'
-  has '100' as x position and
-  has '100' as y position and
+  has '35' as x position and
+  has '45' as y position and
   has '0' as orientation.
 
 the binary light 'Hallway overheads'
-  has '100' as x position and
-  has '100' as y position and
+  has '25' as x position and
+  has '25' as y position and
   has '0' as orientation.
 
 the binary light 'Bathroom overheads'
-  has '100' as x position and
-  has '100' as y position and
+  has '30' as x position and
+  has '10' as y position and
   has '0' as orientation.
 
 the binary light 'Bedroom overheads'
-  has '100' as x position and
-  has '100' as y position and
+  has '60' as x position and
+  has '20' as y position and
   has '0' as orientation.
 
 the binary light 'Bedroom lamp'
-  has '100' as x position and
-  has '100' as y position and
+  has '70' as x position and
+  has '10' as y position and
   has '0' as orientation.
 
 

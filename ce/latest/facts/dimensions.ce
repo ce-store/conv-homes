@@ -5,63 +5,63 @@
 
 -- Rooms
 the room 'Building Hallway'
-  has '[ [0,1], [1,2] ]' as dimensions.
+  has '[[0, 20], [10, 20], [10, 50], [0, 50]]' as dimensions.
 
 the room 'Front Room'
-  has '[ [0,1], [1,2] ]' as dimensions.
+  has '[[10, 30], [40, 30], [40, 50], [10, 50]]' as dimensions.
 
 the room 'Hallway'
-  has '[ [0,1], [1,2] ]' as dimensions.
+  has '[[10, 20], [40, 20], [40, 30], [10, 30]]' as dimensions.
 
 the room 'Bathroom'
-  has '[ [0,1], [1,2] ]' as dimensions.
+  has '[[20, 0], [40, 0], [40, 20], [20, 20]]' as dimensions.
 
 the room 'Bedroom'
-  has '[ [0,1], [1,2] ]' as dimensions.
+  has '[[40, 0], [80, 0], [80, 40], [40, 40]]' as dimensions.
 
 the room 'Cupboard'
-  has '[ [0,1], [1,2] ]' as dimensions.
+  has '[[40, 40], [50, 40], [50, 50], [40, 50]]' as dimensions.
 
 
 -- Doors
 the door 'Front Door'
-  has '[ [0,1], [1,2] ]' as dimensions and
+  has '[[10, 22.5], [10, 27.5]]' as dimensions and
   has 'inward' as direction.
 
 the door 'Front-to-Hallway Door'
-  has '[ [0,1], [1,2] ]' as dimensions and
+  has '[[30, 30], [35, 30]]' as dimensions and
   has 'inward' as direction.
 
 the door 'Bathroom-to-Hallway Door'
-  has '[ [0,1], [1,2] ]' as dimensions and
+  has '[[30, 20], [35, 20]]' as dimensions and
   has 'inward' as direction.
 
 the door 'Bedroom-to-Hallway Door'
-  has '[ [0,1], [1,2] ]' as dimensions and
+  has '[[40, 22.5], [40, 27.5]]' as dimensions and
   has 'inward' as direction.
 
 the door 'Cupboard-to-Bedroom Door'
-  has '[ [0,1], [1,2] ]' as dimensions and
+  has '[[42.5, 40], [47.5, 40]]' as dimensions and
   has 'inward' as direction.
 
 
 -- Windows
 the window 'Front Left Window'
-  has '[ [0,1], [1,2] ]' as dimensions and
+  has '[[15, 50], [22.5, 50]]' as dimensions and
   has 'outward' as direction.
 
 the window 'Front Middle Window'
-  has '[ [0,1], [1,2] ]' as dimensions and
+  has '[[22.5, 50], [27.5, 50]]' as dimensions and
   has 'outward' as direction.
 
 the window 'Front Right Window'
-  has '[ [0,1], [1,2] ]' as dimensions and
+  has '[[27.5, 50], [35, 50]]' as dimensions and
   has 'outward' as direction.
 
 the window 'Bathroom Window'
-  has '[ [0,1], [1,2] ]' as dimensions and
+  has '[[25, 0], [35, 0]]' as dimensions and
   has 'outward' as direction.
 
 the window 'Bedroom Window'
-  has '[ [0,1], [1,2] ]' as dimensions and
+  has '[[80, 20], [80, 30]]' as dimensions and
   has 'outward' as direction.
