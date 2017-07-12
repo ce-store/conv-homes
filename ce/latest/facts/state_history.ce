@@ -3,38 +3,38 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
-the state change 'sc_001'
+the light state change 'sc_001'
   applies to the binary light 'Front overheads' and
   has the binary state 'Off' as previous state and
   has the binary state 'On' as current state and
   has '{now}' as timestamp.
 
-the state change 'sc_002'
+the light state change 'sc_002'
   applies to the binary light 'Back overheads' and
   has the binary state 'Off' as previous state and
   has the binary state 'On' as current state and
   has '{now}' as timestamp.
 
-the state change 'sc_003'
+the light state change 'sc_003'
   applies to the binary light 'Side lamp' and
   has the binary state 'Off' as previous state and
   has the binary state 'On' as current state and
   has '{now}' as timestamp.
 
-the state change 'sc_003'
-  applies to the binary light 'Side lamp' and
-  has the binary state 'Off' as previous state and
-  has the binary state 'On' as current state and
-  has '{now}' as timestamp.
-
-the state change 'sc_004'
+the door sensor state change 'sc_004'
   applies to the door sensor 'Bathroom-to-Hallway Door Sensor' and
   has the binary state 'Open' as previous state and
   has the binary state 'Closed' as current state and
   has '{now}' as timestamp.
 
-the state change 'sc_005'
+the window sensor state change 'sc_005'
   applies to the door sensor 'Front Left Window Sensor' and
   has the binary state 'Open' as previous state and
   has the binary state 'Closed' as current state and
+  has '{now}' as timestamp.
+
+the light state change 'sc_006'
+  applies to the binary light 'Side lamp' and
+  has the binary state 'On' as previous state and
+  has the binary state 'Off' as current state and
   has '{now}' as timestamp.
