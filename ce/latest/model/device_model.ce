@@ -9,6 +9,8 @@ conceptualise a ~ device ~ D that
   has the value I as ~ IP address ~ and
   has the value P as ~ port ~.
 
+conceptualise a ~ switching thing ~.
+
 conceptualise a ~ door sensor ~ DS that
   is a device and
   ~ is attached to ~ the door D.
@@ -27,7 +29,8 @@ conceptualise a ~ light ~ L that
 
 conceptualise a ~ binary light ~ BL that
   is a light and
-  is a binary state thing.
+  is a binary state thing and
+  is a switching thing.
 
 conceptualise an ~ RGB light ~ RL that
   is a light.

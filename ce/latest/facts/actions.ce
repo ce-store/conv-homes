@@ -1,0 +1,14 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2017
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is an action named 'switch on'.
+there is an action named 'switch off'.
+
+there is an action named 'turn on'.
+there is an action named 'turn off'.
+
+there is an action named 'open'.
+there is an action named 'close'.
+
