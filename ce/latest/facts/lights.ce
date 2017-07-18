@@ -3,28 +3,28 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
-there is a binary light named 'Front overheads' that
+there is a binary light named 'Front overhead' that
   is located in the room 'Front Room' and
-  is expressed by 'Front Lights'.
+  is expressed by 'Front Light'.
 
-there is a binary light named 'Back overheads' that
+there is a binary light named 'Back overhead' that
   is located in the room 'Front Room' and
-  is expressed by 'Back Lights'.
+  is expressed by 'Back Light'.
 
 there is a binary light named 'Side lamp' that
   is located in the room 'Front Room'.
 
-there is a binary light named 'Hallway overheads' that
+there is a binary light named 'Hallway overhead' that
   is located in the room 'Hallway' and
-  is expressed by 'Hallway Lights'.
+  is expressed by 'Hallway Light'.
 
-there is a binary light named 'Bathroom overheads' that
+there is a binary light named 'Bathroom overhead' that
   is located in the room 'Bathroom' and
-  is expressed by 'Bathroom Lights'.
+  is expressed by 'Bathroom Light'.
 
-there is a binary light named 'Bedroom overheads' that
+there is a binary light named 'Bedroom overhead' that
   is located in the room 'Bedroom' and
-  is expressed by 'Bedroom Lights'.
+  is expressed by 'Bedroom Light'.
 
 there is a binary light named 'Bedroom lamp' that
   is located in the room 'Bedroom'.
