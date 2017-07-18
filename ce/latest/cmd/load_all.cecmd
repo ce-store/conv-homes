@@ -14,9 +14,9 @@ perform load sentences from url './ce/latest/model/meta_model.ce'.
 perform load sentences from url './ce/latest/model/queries.ce'.
 perform load sentences from url './ce/latest/model/rules.ce'.
 
-perform load sentences from url './ce/latest/facts/actions.ce'.
 perform load sentences from url './ce/latest/facts/binary_states.ce'.
 perform load sentences from url './ce/latest/facts/cameras.ce'.
+perform load sentences from url './ce/latest/facts/conversation.ce'.
 perform load sentences from url './ce/latest/facts/dimensions.ce'.
 perform load sentences from url './ce/latest/facts/doors.ce'.
 perform load sentences from url './ce/latest/facts/environment_variables.ce'.

@@ -9,16 +9,20 @@ there is a door named 'Front Door' that
 
 there is a door named 'Front-to-Hallway Door' that
   is located in the room 'Front Room' and
-  is located in the room 'Hallway'.
+  is located in the room 'Hallway' and
+  is expressed by 'Hallway Door'.
 
 there is a door named 'Bathroom-to-Hallway Door' that
   is located in the room 'Bathroom' and
-  is located in the room 'Hallway'.
+  is located in the room 'Hallway' and
+  is expressed by 'Bathroom Door'.
 
 there is a door named 'Bedroom-to-Hallway Door' that
   is located in the room 'Bedroom' and
-  is located in the room 'Hallway'.
+  is located in the room 'Hallway' and
+  is expressed by 'Bedroom Door'.
 
 there is a door named 'Cupboard-to-Bedroom Door' that
   is located in the room 'Cupboard' and
-  is located in the room 'Bedroom'.
+  is located in the room 'Bedroom' and
+  is expressed by 'Cupboard Door'.

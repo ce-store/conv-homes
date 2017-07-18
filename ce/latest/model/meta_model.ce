@@ -49,3 +49,7 @@ conceptualise a ~ contextual image ~ C that
 conceptualise a ~ renderable concept ~ R that
   has the value D as ~ default image url ~ and
   has the contextual image C as ~ contextual image ~.
+
+conceptualise a ~ thing ~ T that
+  has the value PF as ~ plural form ~ and
+  ~ is expressed by ~ the value V.
