@@ -4,13 +4,13 @@
 -- --------------------------------------------------------------------------
 
 the light state change 'sc_001'
-  applies to the binary light 'Front overheads' and
+  applies to the binary light 'Front overhead' and
   has the binary state 'Off' as previous state and
   has the binary state 'On' as current state and
   has '{now}' as timestamp.
 
 the light state change 'sc_002'
-  applies to the binary light 'Back overheads' and
+  applies to the binary light 'Back overhead' and
   has the binary state 'Off' as previous state and
   has the binary state 'On' as current state and
   has '{now}' as timestamp.

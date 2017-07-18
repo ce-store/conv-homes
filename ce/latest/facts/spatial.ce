@@ -39,12 +39,12 @@ the temperature sensor 'Bedroom Temp Sensor'
 
 
 -- Lights
-the binary light 'Front overheads'
+the binary light 'Front overhead'
   has '25' as x position and
   has '45' as y position and
   has '0' as orientation.
 
-the binary light 'Back overheads'
+the binary light 'Back overhead'
   has '25' as x position and
   has '35' as y position and
   has '0' as orientation.
@@ -54,17 +54,17 @@ the binary light 'Side lamp'
   has '45' as y position and
   has '0' as orientation.
 
-the binary light 'Hallway overheads'
+the binary light 'Hallway overhead'
   has '25' as x position and
   has '25' as y position and
   has '0' as orientation.
 
-the binary light 'Bathroom overheads'
+the binary light 'Bathroom overhead'
   has '30' as x position and
   has '10' as y position and
   has '0' as orientation.
 
-the binary light 'Bedroom overheads'
+the binary light 'Bedroom overhead'
   has '60' as x position and
   has '20' as y position and
   has '0' as orientation.
