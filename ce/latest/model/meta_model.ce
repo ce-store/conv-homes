@@ -9,6 +9,8 @@ conceptualise a ~ device concept ~ D that
   ~ can measure ~ the environment variable E1 and
   ~ can control ~ the environment variable E2.
 
+conceptualise a ~ controllable concept ~ C.
+
 conceptualise a ~ binary state concept ~ B that
   has the binary state BS as ~ possible state ~.
 

@@ -20,3 +20,7 @@ the device concept 'temperature sensor'
 
 the device concept 'light'
   can control the environment variable 'light'.
+
+there is a controllable concept 'light'.
+there is a controllable concept 'window'.
+there is a controllable concept 'door'.
