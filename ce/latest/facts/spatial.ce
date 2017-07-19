@@ -28,13 +28,13 @@ the camera 'Bedroom Window Camera'
 
 -- Temperature sensors
 the temperature sensor 'Front Room Temp Sensor'
-  has '42' as x position and
-  has '2' as y position and
+  has '12' as x position and
+  has '32' as y position and
   has '0' as orientation.
 
 the temperature sensor 'Bedroom Temp Sensor'
-  has '22' as x position and
-  has '18' as y position and
+  has '42' as x position and
+  has '2' as y position and
   has '0' as orientation.
 
 
