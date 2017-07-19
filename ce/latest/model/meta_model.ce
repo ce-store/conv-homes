@@ -29,6 +29,12 @@ conceptualise a ~ state change ~ SC that
   has the state S2 as ~ current state ~ and
   has the value T as ~ timestamp ~.
 
+conceptualise a ~ continuous state change ~ SC that
+  ~ applies to ~ the device D and
+  has the value V1 as ~ previous state ~ and
+  has the value V2 as ~ current state ~ and
+  has the value T as ~ timestamp ~.
+
 conceptualise a ~ light state change ~ LSC that
   is a state change.
 
@@ -39,7 +45,7 @@ conceptualise a ~ window sensor state change ~ WSC that
   is a state change.
 
 conceptualise a ~ temperature sensor state change ~ TSC that
-  is a state change.
+  is a continuous state change.
 
 conceptualise a ~ camera state change ~ CSC that
   is a state change.

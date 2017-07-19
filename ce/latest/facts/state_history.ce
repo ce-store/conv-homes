@@ -110,3 +110,17 @@ the window sensor state change 'sc_017'
   has the binary state 'Closed' as previous state and
   has the binary state 'Open' as current state and
   has '{now}' as timestamp.
+
+-- Temperature Sensors: initial states
+
+the temperature sensor state change 'sc_018'
+  applies to the temperature sensor 'Bedroom Temp Sensor' and
+  has the value '16' as previous state and
+  has the value '17' as current state and
+  has '{now}' as timestamp.
+
+the temperature sensor state change 'sc_019'
+  applies to the temperature sensor 'Front Room Temp Sensor' and
+  has the value '17' as previous state and
+  has the value '16' as current state and
+  has '{now}' as timestamp.
