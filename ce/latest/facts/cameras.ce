@@ -6,19 +6,23 @@
 there is a camera named 'Front Room Door Camera' that
   is located in the room 'Front Room' and
   has '192.168.1.X' as IP address and
-  has 'XXXX' as port.
+  has 'XXXX' as port and
+  has 'http://www.upstatedoor.com/images/hp-UD-door3.jpg' as static image url.
 
 there is a camera named 'Front Room Window Camera' that
   is located in the room 'Front Room' and
   has '192.168.1.X' as IP address and
-  has 'XXXX' as port.
+  has 'XXXX' as port and
+  has 'https://modernize.com/wp-content/uploads/2015/10/window-frames.jpg' as static image url.
 
 there is a camera named 'Bedroom Door Camera' that
   is located in the room 'Bedroom' and
   has '192.168.1.X' as IP address and
-  has 'XXXX' as port.
+  has 'XXXX' as port and
+  has 'http://www.upstatedoor.com/images/hp-UD-door3.jpg' as static image url.
 
 there is a camera named 'Bedroom Window Camera' that
   is located in the room 'Bedroom' and
   has '192.168.1.X' as IP address and
-  has 'XXXX' as port.
+  has 'XXXX' as port and
+  has 'https://modernize.com/wp-content/uploads/2015/10/window-frames.jpg' as static image url.

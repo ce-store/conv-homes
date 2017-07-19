@@ -37,4 +37,5 @@ conceptualise an ~ RGB light ~ RL that
 
 conceptualise a ~ camera ~ C that
   is a device and
-  is a located thing.
+  is a located thing and
+  has the value V as ~ static image url ~.
